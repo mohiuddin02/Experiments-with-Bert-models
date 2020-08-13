@@ -232,7 +232,6 @@ python -m albert.run_pretraining \
 
 
 
-python download_tweets.py -i ./data/vaccine_sentiment_data.csv -o ./data/tweets.jsonl --consumerkey cNPz63oPaV8HYM7QqxIFg --consumersecret S3iWVmAX0rugWiGSN19uqTUUu3BtuG1HiqKDNyNC8 --accesstoken 88181243-407aJ1vCuC4RQ6OgZdm1BCPcQUYw1vU6iJl1UT7h7  --accesssecret rAywFTf0ylkjcNQGEV14C6Cfjxgm6MjJyEJzkOiu3XIcI
 
 
 export BERT_BASE_DIR=/home/mabdulq/lakehead/thesis/BertModels
